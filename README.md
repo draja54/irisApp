@@ -1,5 +1,3 @@
-# irisApp
-irisApp for Developing Data Products Course Project
 ---
 title: "Developing Data Products Shiny app"
 output: html_notebook
